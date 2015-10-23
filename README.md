@@ -30,18 +30,22 @@ These features were derived from the raw data collected by the Samsung accelerom
 The files 
 - y_train.txt (7352 coded activities (categorical values 1 to 6)) 	
 - y_test.txt (2947 coded activities (categorical values 1 to 6))
+
 indicate the activity for each observation.
 
 The files
 - subject_train.txt (7352 coded subjects (categorical values 1 to 30))
 - subject_test.txt (2947 coded subjects (categorical values 1 to 30)) 
+
 indicate the subject who generated the data.
 
 The file 
 - features.txt 
+
 indicates the name of the 561 feature in training and testing feature files.
 
 The file 
 - activity_labels.txt 
+
 defines the six categorical coded activities. 
        
