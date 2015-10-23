@@ -2,7 +2,7 @@
 
 This codebook has three sections.  
 
-* VARIABLES describes the columns in the output file >tidyStep5.txt that results from running >run_analysis.R on the data set downloaded from the UCI Machine Learning Repository at
+* VARIABLES describes the columns in the output file ‘tidyStep5.txt’ that results from running **run_analysis.R** on the data set downloaded from the UCI Machine Learning Repository at
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 * DATA explains the data from the repository that is used as input to the “run_analysis.R” file.
@@ -22,6 +22,7 @@ The original downloaded used for input to the “run_analysis.R” file  consists ei
 Feature files
 - X_train.txt  (7352 observations of 561 features)
 - X_test.txt (2947 observations of 561 features)
+
 These features were derived from the raw data collected by the Samsung accelerometers  (see the web site file          ) and each observation corresponds to a derived feature for an individual subject engaged in a single activity.  The files 
 	- y_train.txt (7352 coded activities (categorical values 1 to 6)) 	
       - y_test.txt (2947 coded activities (categorical values 1 to 6))
